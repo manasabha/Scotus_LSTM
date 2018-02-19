@@ -4,7 +4,7 @@ Please refer to the [report](https://github.com/mbharad/Scotus_LSTM/blob/master/
 
 # Notebooks
 
-  - [Data Exploration](https://github.com/mbharad/Scotus_LSTM/blob/master/nbs/Data%20Exploration.ipynb) : This notebook does a prelimnary exploration of the features/data given as input to the model.
+  - [Data Exploration](https://github.com/mbharad/Scotus_LSTM/blob/master/nbs/Data%20Exploration.ipynb) : This notebook does a preliminary exploration of the features/data given as input to the model. Plots can be found [here](https://github.com/mbharad/Scotus_LSTM/tree/master/data/plots) as well as in the [report](https://github.com/mbharad/Scotus_LSTM/blob/master/SCOTUS_Report.pdf)
   
   - [SCOTUS - Sequence Modeling](https://github.com/mbharad/Scotus_LSTM/blob/master/nbs/SCOTUS%20-%20Sequence%20Modeling.ipynb) : This notebook converts each feature to one hot encoding and then feeds it to an LSTM. We are able to achieve test accuracies of 82% using this model.
   
