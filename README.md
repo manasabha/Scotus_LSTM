@@ -8,4 +8,4 @@ Please refer to the [report](https://github.com/mbharad/Scotus_LSTM/blob/master/
   
   - [SCOTUS - Sequence Modeling](https://github.com/mbharad/Scotus_LSTM/blob/master/nbs/SCOTUS%20-%20Sequence%20Modeling.ipynb) : This notebook converts each feature to one hot encoding and then feeds it to an LSTM. We are able to achieve test accuracies of 82% using this model.
   
-  - [SCOTUS - Sequence Modeling.ipynb](https://github.com/mbharad/Scotus_LSTM/blob/master/nbs/SCOTUS%20-%20LSTM%20and%20Embeddings.ipynb) : This notebook converts each input feature into an embedding which are then concatenated and passed on to an LSTM layer. We are able to achieve test accuracies of 90% using this model.
+  - [SCOTUS - LSTM and Embeddings](https://github.com/mbharad/Scotus_LSTM/blob/master/nbs/SCOTUS%20-%20LSTM%20and%20Embeddings.ipynb) : This notebook converts each input feature into an embedding which are then concatenated and passed on to an LSTM layer. We are able to achieve test accuracies of 90% using this model.
