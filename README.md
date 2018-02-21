@@ -2,6 +2,10 @@ This project aims to model the behaviour of the Supreme Court of the United Stat
 
 Please refer to the [report](https://github.com/mbharad/Scotus_LSTM/blob/master/SCOTUS_Report.pdf) for complete details.
 
+**NOTE**
+
+The [report](https://github.com/mbharad/Scotus_LSTM/blob/master/SCOTUS_Report.pdf) was actually originally built for [Sequence Modeling](https://github.com/mbharad/Scotus_LSTM/blob/master/nbs/SCOTUS%20-%20Sequence%20Modeling.ipynb). The rationale behind [embeddings](https://github.com/mbharad/Scotus_LSTM/blob/master/nbs/SCOTUS%20-%20LSTM%20and%20Embeddings.ipynb) was explored later. As such, the results and description for using [embeddings](https://github.com/mbharad/Scotus_LSTM/blob/master/nbs/SCOTUS%20-%20LSTM%20and%20Embeddings.ipynb) is added to the ***Appendix*** of the report.
+
 # Notebooks
 
   - [Data Exploration](https://github.com/mbharad/Scotus_LSTM/blob/master/nbs/Data%20Exploration.ipynb) : This notebook does a preliminary exploration of the features/data given as input to the model. Plots can be found [here](https://github.com/mbharad/Scotus_LSTM/tree/master/data/plots) as well as in the [report.](https://github.com/mbharad/Scotus_LSTM/blob/master/SCOTUS_Report.pdf)
